@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🎓 I’m an tech enthusiast, artist & a junior pursuing my Bachelors in Computer Science & Engineering. 
+🎓 I’m an tech enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
+🙋‍♂️ Apart from being interested in tech, I also make [artwork](https://opensea.io/aesthethicc),and run a tech [community](https://discord.gg/nYqcfEyZT8) with over 1.3K ppl :D
 
