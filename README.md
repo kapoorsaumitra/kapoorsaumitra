@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 😄 Pronouns: he/him
 - 🌱 I’m currently learning how to use Data Structures and Algorithms
 - 📫 How to reach me: 
 <a href="https://twitter.com/kapoor_saumitra">
@@ -24,7 +25,6 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-- 😄 Pronouns: he/him
 
 ### About Me 🚀
 🎓 I’m an tech enthusiast, artist & a junior pursuing my Bachelors in Computer Science & Engineering. 
