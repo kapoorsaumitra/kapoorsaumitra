@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning how to use Data Structures and Algorithms
+- 🧠 Also interested in Machine Learning, Data Science, human behaviour & philosophy :D
 - 📫 How to reach me: 
 <a href="https://twitter.com/kapoor_saumitra">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111580.png" />
 </a>
 <a href="mailto:saumitrakapoor24@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111309.png" />
