@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 🧠 Also interested in Machine Learning, Data Science, human behaviour & philosophy :D
 - 📫 How to reach me: 
 <a href="https://twitter.com/kapoor_saumitra">
-  <img align="left" width="52px" src="https://cdn-icons-png.flaticon.com/512/2111/2111580.png" />
+  <img align="left" width="34px" src="https://cdn-icons-png.flaticon.com/512/2111/2111580.png" />
 </a>
 <a href="mailto:saumitrakapoor24@gmail.com">
-  <img align="left" width="52px" src="https://cdn-icons-png.flaticon.com/512/2111/2111309.png" />
+  <img align="left" width="34px" src="https://cdn-icons-png.flaticon.com/512/2111/2111309.png" />
 </a>
 
 <br />
