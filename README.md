@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+<br />
 
 ### About Me 🚀
 🎓 I’m an tech enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
