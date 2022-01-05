@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 🎓 I’m an tech enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
-🙋‍♂️ Apart from being interested in tech, I also make [artwork](https://opensea.io/aesthethicc), and run a tech [community](https://discord.gg/nYqcfEyZT8) with over 1.4K people :D
+🙋‍♂️ Apart from being interested in tech, I also make [artwork](https://opensea.io/aesthethicc), and run a tech [community](https://discord.gg/nYqcfEyZT8) with over 1.6K people 😁
 
 [![Saumitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorsaumitra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
