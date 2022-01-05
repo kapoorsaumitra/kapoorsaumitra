@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: he/him
+- 🧬 Pronouns: he/him
 - 🌱 I’m currently learning how to use Data Structures and Algorithms
 - 🧠 Also interested in Machine Learning, Data Science, human behaviour & philosophy :D
 - 📫 How to reach me: 
