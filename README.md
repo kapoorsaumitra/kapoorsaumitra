@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 🎓 I’m an tech enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
 🙋‍♂️ Apart from being interested in tech, I also make [artwork](https://opensea.io/aesthethicc), and run a tech [community](https://discord.gg/nYqcfEyZT8) with over 2K people 😁
 
+<!--
 [![Saumitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapoorsaumitra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapoorsaumitra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
