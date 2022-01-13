@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🎓 I’m a tech enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
+🎓 I’m a tech enthusiast & a freshman pursuing my Bachelors in Computer Science & Engineering. 
 🙋‍♂️ Apart from being interested in tech, I also make [artwork](https://opensea.io/aesthethicc), and run a tech [community](https://discord.gg/nYqcfEyZT8) with over 2K people 😁
 
 <!--
